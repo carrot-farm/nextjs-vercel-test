@@ -1,7 +1,15 @@
 {
   "name": "nextjs-fullstack-app-template",
+  "author": "carrot-famer",
+  "description": "Vercel Test App",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0",
+    "yarn": ">=1.22.0",
+    "npm": ">=1.22.17"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
